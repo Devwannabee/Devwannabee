@@ -33,12 +33,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-- 👀 I’m interested in ... everything 
-- 🌱 I’m currently learning ...In Opensource projects 
-- 💞️ I’m looking to collaborate on ...Cybersecurity/Bug bounties 
-- 📫 How to reach me ...github
-- 😄 Pronouns: ...NA
-- ⚡ Fun fact: ...i am batman
 
 <!---
 Devwannabee/Devwannabee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
